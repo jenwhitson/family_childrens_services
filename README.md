@@ -14,12 +14,12 @@ A google sheets presentation of analysis and recommendations.
 This was a full class project completed with real data from a real client. While I did perform some analysis, I also worked in a project management capacity for this project. It was my job to set class deadlines, schedule presentation walk-throughs, and ensure quality, consistency, completeness, and logical flow in our presentation.
 
 ### Technologies Used
-*Python*: Data cleaning, exploration, analysis and visualization<br>
-*Google Slides*: Team presentation building
+**Python**: Data cleaning, exploration, analysis and visualization<br>
+**Google Slides**: Team presentation building
 
 
 ### View full presentation here: 
 https://docs.google.com/presentation/d/1U8pDqJKAgDxHVWJ8IbSdn6qSXbZSjWYTULHHYax6SzI/edit#slide=id.gcf1e2bfac2_0_71
 
-<br><br>(Presentation is also available in this repo as a pdf)
+(Presentation is also available in this repo as a pdf)
 
